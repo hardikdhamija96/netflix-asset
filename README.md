@@ -1,4 +1,8 @@
 # 📊 Netflix Content Analysis & Business Insights
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![EDA](https://img.shields.io/badge/EDA-Done-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 
 A complete exploratory data analysis of Netflix's content catalog to uncover trends, audience preferences, and strategic recommendations for global growth.
 
